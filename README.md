@@ -38,20 +38,24 @@ Validador de datos desarrollado en Python que verifica la integridad y consisten
 - Clona el repositorio:
 
 `````bash`````
-        `````git clone https://github.com/tu-usuario/validador-registros.git`````
-         `````   cd validador-registros`````
+
+      git clone https://github.com/tu-usuario/validador-registros.git
+        
+      cd validador-registros
             
 - Instala las dependencias:
 
 `````bash`````
-         `````   pip install pandas`````
+
+            pip install pandas
             
 💻 **Uso**
 
-- Ejecución básica:
-- 
+ Ejecución básica:
+  
 `````bash`````
-           ````` python validador.py`````
+
+         python validador.py
 
 
 
